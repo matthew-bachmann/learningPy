@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {"python.defaultInterpreterPath": "/Users/matthewbachmann/mambaforge/envs/mlpractice/bin/python"},
+	"code-runner.executorMap": {"python": "$pythonPath $fullFileName"}
+}
